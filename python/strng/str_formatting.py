@@ -36,3 +36,11 @@ print(f'my name is {name.upper()} and i live in {city.upper()}')
 
 intro=f'my name is {name}.'
 print(intro)
+
+# output can lso includein the trin
+a=20
+b=10
+print(f' the sum of 10 sn 20 is {a+b}')
+
+#escaping curly braces
+print(f" the result of {a+b} is 30{{{a+b}}}")
