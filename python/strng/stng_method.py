@@ -105,4 +105,8 @@ print(str20.rfind('raja'))
 #its is similar to find metod but the the substing not found then it return exception that
 #is value error
 
-print(str20.index('king'))
+print(str20.index('king')) 
+#Op-> ValueError: substring not found
+
+#rindex() this method similar to rfind () but it also raise value error 
+#only diffrence between rfind and rindex
