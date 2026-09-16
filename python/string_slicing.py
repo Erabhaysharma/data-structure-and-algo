@@ -37,6 +37,3 @@ print(str[::-1])
 print(s[::-1])
 print(list[::-1])
 
-num=120
-nums=str(num)
-print(nums[::-1])
